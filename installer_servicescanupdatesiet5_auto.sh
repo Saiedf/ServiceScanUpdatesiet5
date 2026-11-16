@@ -17,7 +17,7 @@
 # wget -O /tmp/installer_servicescanupdatesiet5_auto.sh "https://raw.githubusercontent.com/Saiedf/ServiceScanUpdatesiet5/main/installer_servicescanupdatesiet5_auto.sh?nocache=$(date +%s)" && chmod 755 /tmp/installer_servicescanupdatesiet5_auto.sh && /bin/sh /tmp/installer_servicescanupdatesiet5_auto.sh
 # ==========================================================
 
-PACKAGE_NAME='enigma2-plugin-extensions-ServiceScanUpdatesiet5'
+PACKAGE_NAME='enigma2-plugin-extensions-servicescanupdatesiet5'
 LEGACY_PACKAGE_NAME='enigma2-plugin-extensions-ServiceScanUpdatesiet5'
 PLUGIN_TITLE='ServiceScanUpdatesiet5'
 PLUGIN_FOLDER='ServiceScanUpdatesiet5'
